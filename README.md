@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LukaszMazurek
+- 👀 I’m interested in programming, math and software architecture 
+- 🌱 I’m currently learning python
+- 📫 How to reach me lukaszmazurek.contact@gmail.com
