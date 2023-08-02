@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LukaszMazurek
-- 👀 I’m interested in programming, math and software enginnering
+- 👀 I’m interested in programming, math and data enginnering
 - 🌱 I’m currently learning Apache Spark
 - 📫 How to reach me lukaszmazurek.contact@gmail.com
